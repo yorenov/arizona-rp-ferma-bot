@@ -1,0 +1,19 @@
+﻿E:\Visual\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  main.cpp
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(71,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(71,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(71,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(71,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(96,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(96,50): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(96,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(96,33): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(96,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(119,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(119,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(119,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(119,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(157,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(159,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\SF Plugin Template\SFPlugin\main.cpp(164,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  SFPlugin.vcxproj -> D:\egta\SAMPFUNCS\ferma_bot.sf
